@@ -1,0 +1,212 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.wrapper{
+    width: 1170px;
+    margin: auto;
+}
+
+
+header{
+    background: peachpuff;
+}
+
+
+.rainbow{
+    position: relative;
+    top: -10px;
+    width: 50px;
+}
+
+
+.clickable{
+    position: relative;
+    float: right;
+    list-style: none;
+    margin-top: 30px;
+    top: -60px;
+}
+
+.clickable li{
+    display: inline-block;
+}
+
+.clickable li a{
+    color: brown;
+    text-decoration: none;
+    padding: 5px 20px;
+    font-family: poppins;
+    font-size: 16px;
+}
+
+.clickable li a:hover{
+    background: yellow;
+    color: #333;
+}
+
+.quiz{
+    color: orange;
+}
+
+.regform{
+    width:800px;
+    background-color: rgb(0, 0, 0, 0, 6);
+    margin: auto;
+    color: #b86819;
+    padding: 10px 0px 10px 0px;
+    text-align: center;
+    border-radius: 15px 15px 0px 0px;
+}
+
+hr{
+    position: relative;
+    left: 200px;
+}
+
+
+.logo img{
+    position: relative;
+    width:150px;
+    float:left;
+    height: 150px;
+    margin: 20px;
+    top: -150px;
+}
+
+
+.main{
+    background-color: rgba(182, 124, 17, 0.5);
+    width: 830px;
+    height:900px;
+    margin: auto;
+    padding: 80px;
+}
+
+form{
+    padding: 20px;
+}
+
+fieldset{
+    border-radius: 6px;
+    border-color:black;
+    padding: 4px;
+}
+
+.studinfo{
+    background-color:yellowgreen;
+    border-radius: 6px;
+    height: 30px;
+    border: solid;
+    font-size: x-large;
+    
+    
+}
+
+.exam{
+    background-color:yellowgreen;
+    border-radius: 6px;
+    height: 30px;
+    border: solid;
+    font-size: x-large;
+    
+}
+
+
+.textarea{
+    position: relative;
+    left: 20px;
+    top: 10px;
+    line-height: px;
+    width:730px;
+    height: 200px;
+    border-radius: 6px;
+    padding:0 22px;
+    font-size: 16px;
+}
+
+
+
+#finish{
+    position:relative;
+    top: 50px;
+    left: -350px;
+   float: right;
+   height: 30px;
+   width: 300px;
+}
+
+.next li{
+    position:relative;
+    top: 43px;
+    left: 650px;
+    background-color: #6b520b;
+    text-align: center;
+    border-radius: 12px;
+    border: 2px solid black;
+    padding: 10px 40px;
+    cursor:pointer;
+    width: 50px;
+    height: 20px;
+    
+   
+}
+
+.next li a{
+    color: white;
+    text-decoration: none;
+   
+   
+    font-size: 16px;
+}
+
+
+.bottom{
+    position:relative;
+    background-color: #be9557;
+    text-align: left;
+    height: 53px;
+    border: 1px solid black;
+    width: 1348px;
+    left: -1px;
+    top: -15px;
+   
+}
+
+.para{
+    position: relative;
+    float:left;
+    margin: 1px;
+    top: 15px;
+}
+
+.pic{
+    position: relative;
+    top: -1px;
+    margin: 5px;
+    width: 1000px;
+}
+
+
+.instagram{
+    position: relative;
+    top: -3px;
+}
+
+.contact{
+    position: relative;
+    left: 20px;
+    top: -1px;
+}
+
+
+.cr{
+    position: relative;
+    top: 13px;
+    float: right;
+}
+
+i{
+    position: relative;
+    left: 250px;
+}
